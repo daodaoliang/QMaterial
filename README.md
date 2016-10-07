@@ -16,5 +16,8 @@
 ##Flat Button
 <img src="ScreenShot/FlatButton.gif" width="400px" height="300px" /><img src="ScreenShot/RippleFlatButton.gif" width="400px" height="300px" />
 
+##Radio Button(maybe a error when app exit on python3.4-退出时可能会出现异常)
+<img src="ScreenShot/RadioButton.gif" width="400px" height="300px" />
+
 ##LineEdit
 <img src="ScreenShot/LineEdit.gif" width="800px" height="600px" />
